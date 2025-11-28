@@ -1,16 +1,38 @@
-## Hi there 👋
+Yuu — Health Science × Data Analysis（2025）
 
-<!--
-**Yuu13329/Yuu13329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year university student majoring in Health Science, focusing on data analysis and machine learning.
+I am building experience through small projects using Python, statistics, and HR analytics.
 
-Here are some ideas to get you started:
+健康科学を専攻しながら、
+Python と統計を使ったデータ分析を学んでいます。
+シンプルで再現性のある分析を組み立てることを大切にしています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+==================================================
+Skills / 技術
+
+・Python（pandas, numpy, matplotlib, scikit-learn）
+・データ前処理・特徴量エンジニアリング
+・ロジスティック回帰
+・可視化（EDA）
+・Google Colab / GitHub
+
+==================================================
+Projects / プロジェクト
+
+Employee Attrition Analysis（離職予測モデル）
+https://github.com/Yuu13329/employee-attrition-analysis
+
+==================================================
+Interests / 興味
+
+・ヘルスデータの分析
+・身体アプローチ × 機械学習
+・シンプルで静かなデータ構造
+・運動／疲労データの可視化
+・MLの基礎モデルの理解
+
+==================================================
+Note
+
+I am currently learning and building step-by-step.
+I welcome feedback and suggestions.
