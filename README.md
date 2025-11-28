@@ -10,11 +10,20 @@ Python と統計を使ったデータ分析を学んでいます。
 ==================================================
 Skills / 技術
 
-・Python（pandas, numpy, matplotlib, scikit-learn）
-・データ前処理・特徴量エンジニアリング
-・ロジスティック回帰
+・Python（データ分析・機械学習の基礎ライブラリの使用）
+・データ前処理（欠損処理・カテゴリ変数のエンコード）
+・特徴量エンジニアリング
+・ロジスティック回帰モデル
 ・可視化（EDA）
-・Google Colab / GitHub
+
+==================================================
+Tools / 使用ツール
+
+・Python  
+・pandas / numpy / matplotlib / scikit-learn  
+・Google Colab  
+・Jupyter Notebook  
+・GitHub  
 
 ==================================================
 Projects / プロジェクト
