@@ -19,11 +19,11 @@ Skills / 技術
 ==================================================
 Tools / 使用ツール
 
-・Python  
-・pandas / numpy / matplotlib / scikit-learn  
-・Google Colab  
-・Jupyter Notebook  
-・GitHub  
+・Python
+・pandas / numpy / matplotlib / scikit-learn
+・Google Colab
+・Jupyter Notebook
+・GitHub
 
 ==================================================
 Projects / プロジェクト
