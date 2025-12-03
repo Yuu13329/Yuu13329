@@ -1,10 +1,10 @@
 Yuu — Health Science × Data Analysis（2025）
 
-I am a first-year university student majoring in Health Science, focusing on data analysis and machine learning.
-I am building experience through small projects using Python, statistics, and HR analytics.
+First-year university student majoring in Health Science, focusing on data analysis.
 
-健康科学を専攻しながら、Python と統計を使ったデータ分析を学んでいます。
-シンプルで再現性のある分析を組み立てることを大切にしています。
+I am a first-year university student majoring in Health Science, focusing on data analysis and machine learning. I am building experience through small projects using Python, statistics, and HR analytics.
+
+健康科学を専攻しながら、 Python と統計を使ったデータ分析を学んでいます。 シンプルで再現性のある分析を組み立てることを大切にしています。
 
 ---
 
@@ -45,6 +45,14 @@ I am building experience through small projects using Python, statistics, and HR
 ・シンプルで静かなデータ構造  
 ・運動／疲労データの可視化  
 ・ML の基礎モデルの理解  
+
+---
+
+## English Summary
+
+I study Health Science with a focus on data analysis and machine learning.
+I work on small projects using Python, statistics, and HR analytics.  
+My goal is to build simple, reproducible analytical workflows and understand the fundamentals of ML models.
 
 ---
 
